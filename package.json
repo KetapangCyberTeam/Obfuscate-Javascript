@@ -1,0 +1,27 @@
+{
+  "name": "obfuscate-javascript",
+  "version": "1.0.0",
+  "description": "The Powerfull Obfuscate Javscript Code",
+  "main": "Obfuscate-Javascript.js",
+  "scripts": {
+    "start": "node Obfuscate-Javascript.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ketapangcyberteam/Obfuscate-Javascript.git"
+  },
+  "keywords": [
+    "Obfuscate"
+  ],
+  "author": "MrVxdx1-Xploit <Ketapang Cyber Team>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ketapangcyberteam/Obfuscate-Javascript/issues"
+  },
+  "homepage": "https://github.com/ketapangcyberteam/Obfuscate-Javascript/",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^7.3.3",
+    "javascript-obfuscator": "^4.1.1"
+  }
+}
