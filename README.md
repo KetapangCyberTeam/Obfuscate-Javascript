@@ -81,5 +81,5 @@ npm start
 # License
 This project is License under [Apache License](LICENSE).
 
-This project is *NOT FREE* you are *FORBIDDEN* to rename this script to something else
-You are *FORBIDDEN* to distribute or sell this script
+- This project is NOT FREE you are FORBIDDEN to rename this script to something else.
+- You are FORBIDDEN to distribute or sell this script.
